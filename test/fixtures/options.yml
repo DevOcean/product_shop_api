@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  part: one
+  in_stock: false
+
+two:
+  name: MyString
+  part: two
+  in_stock: false
